@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    background-color: black;
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+h1,
+h2{
+    color: white;
+}
+
+h1{
+    font-size: 3.125em;
+    font-weight: normal;
+}
+
+h2{
+    font-weight: 300;
+}
+
+.link{
+    color: aquamarine;
+    font-size: 1em;   
+}
+
+.travel p{
+    color: gray;
+    font-size: 1.3125em;
+}
+
+h3{
+    text-align: right;
+    color: gray;
+    font-weight: normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
